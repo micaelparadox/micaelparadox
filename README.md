@@ -8,7 +8,6 @@
    <a href="https://www.linkedin.com/in/micaelparadox/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='Linkedin'></a>
    <a href="https://www.instagram.com/doozyakadeveloper" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=a10d37' alt='Instagram'></a>
    <a href="https://api.whatsapp.com/send?phone=5547996428339&text=Ol%C3%A1%2C%20vim%20pelo%20github." target="_blank"><img height='30' src='https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=Whatsapp&logoColor=2EC866' alt='Whatsapp'></a>
-   <a href="https://www.hackerrank.com/micaelparadox" target="_blank"><img height='30' src='https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=2EC866' alt='Hackerrank'></a>
 </div>
 
 ### Main Operation System
