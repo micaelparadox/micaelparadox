@@ -45,8 +45,6 @@
 ### Testing Tools
 <div>
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
 </div>
 
 ### Github Stats
