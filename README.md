@@ -3,7 +3,7 @@
 With over 12 years of experience in software development, I specialize in creating scalable solutions with Java, Go, Node.js, PHP, and Python.
 
 ### Contact
-- [LinkedIn](https://www.linkedin.com/in/micaelparadox/)
+- [LinkedIn](https://www.linkedin.com/in/micasan)
 - [WhatsApp](https://api.whatsapp.com/send?phone=5547996428339&text=Ol%C3%A1%2C%20vim%20pelo%20github.)
 
 ### Expertise
